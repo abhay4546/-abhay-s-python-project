@@ -18,3 +18,6 @@ else:
     x1 = (-b + math.sqrt(D)) / (2*a)
     x2 = (-b - math.sqrt(D)) / (2*a)
     print("Two real roots:", x1, x2)
+
+
+#this is an quadratic problem
